@@ -1,0 +1,9 @@
+{
+    "recommendations":[
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "github.vscode-pull-request-github",
+        "knisterpeter.vscode-github",
+        "ms-toolsai.jupyter"
+    ]
+}
